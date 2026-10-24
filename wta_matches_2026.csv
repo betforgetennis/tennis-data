@@ -850,7 +850,7 @@ Rouen,WTA 250,2026/04/13,Clay,R32,3,Katie Boulter,Maria Timofeeva,6-2 6-2,64,153
 Rouen,WTA 250,2026/04/13,Clay,R32,3,Jaqueline Cristian,Tiantsoa Rakotomanga Rajaonah,2-6 7-6(6) 7-5,33,135,1382,565
 Rouen,WTA 250,2026/04/13,Clay,R32,3,Anna Bondar,Harmony Tan, 6-2 4-6 6-0,65,205,999,352
 Rouen,WTA 250,2026/04/13,Clay,R32,3,Oleksandra Oliynykova,Lilli Tagger, 6-3 4-6 6-4,70,97,931,813
-Rouen,WTA 250,2026/04/13,Clay,R32,3,Xiyu Wang,Chloe Paquet,3-6 6-4 6-3,171,241,439,284
+Rouen,WTA 250,2026/04/13,Clay,R32,3,Xinyu Wang,Chloe Paquet,3-6 6-4 6-3,32,241,1383,284
 Rouen,WTA 250,2026/04/13,Clay,R32,3,Sorana Cirstea,Fiona Ferro,6-3 6-7(5) 7-6(2),26,218,1507,323
 Rouen,WTA 250,2026/04/13,Clay,R16,3,Marta Kostyuk,Caty Mcnally, 2-6 6-2 6-1,28,71,1473,919
 Rouen,WTA 250,2026/04/13,Clay,R16,3,Ann Li,Kamilla Rakhimova,4-6 6-2 6-3,36,74,1356,914
@@ -859,11 +859,12 @@ Rouen,WTA 250,2026/04/13,Clay,R16,3,Tatjana Maria,Dominika Salkova,6-3 6-2,63,12
 Rouen,WTA 250,2026/04/13,Clay,R16,3,Veronika Podrez,Elisabetta Cocciaretto,7-6(5) 4-6 6-4,209,41,335,1310
 Rouen,WTA 250,2026/04/13,Clay,R16,3,Katie Boulter,Jaqueline Cristian, 7-6(5) 4-6 6-1,64,33,1012,1382
 Rouen,WTA 250,2026/04/13,Clay,R16,3,Anna Bondar,Oleksandra Oliynykova, 6-0 4-6 6-0,65,70,999,931
-Rouen,WTA 250,2026/04/13,Clay,QF,3,Sorana Cirstea,Anna Bondar,7-6(2) 6-2,26,65,1507,999
-Rouen,WTA 250,2026/04/13,Clay,SF,3,Marta Kostyuk,Tatjana Maria, 6-3 6-0,28,63,1473,1023
+Rouen,WTA 250,2026/04/13,Clay,R16,3,Sorana Cirstea,Xinyu Wang,5-3 RET,26,32,1507,1383
+Rouen,WTA 250,2026/04/13,Clay,QF,3,Marta Kostyuk,Ann Li, 6-0 6-7(4) 6-3,28,36,1473,1356
 Rouen,WTA 250,2026/04/13,Clay,QF,3,Tatjana Maria,Iryna Shymanovich,7-6(5) 6-2,63,184,1023,398
 Rouen,WTA 250,2026/04/13,Clay,QF,3,Veronika Podrez,Katie Boulter, 6-4 6-1,209,64,335,1012
-Rouen,WTA 250,2026/04/13,Clay,QF,3,Marta Kostyuk,Ann Li, 6-0 6-7(4) 6-3,28,36,1473,1356
+Rouen,WTA 250,2026/04/13,Clay,QF,3,Sorana Cirstea,Anna Bondar,7-6(2) 6-2,26,65,1507,999
+Rouen,WTA 250,2026/04/13,Clay,SF,3,Marta Kostyuk,Tatjana Maria, 6-3 6-0,28,63,1473,1023
 Rouen,WTA 250,2026/04/13,Clay,SF,3,Veronika Podrez,Sorana Cirstea,W/O,209,26,335,1507
 Rouen,WTA 250,2026/04/13,Clay,F,3,Marta Kostyuk,Veronika Podrez, 6-3 6-4,28,209,1473,335
 Stuttgart,WTA 500,2026/04/13,Clay,R32,3,Diana Shnaider,Tamara Korpatsch,6-3 6-1,19,102,2001,801
@@ -2370,3 +2371,12 @@ Wuhan,WTA 1000,2026/10/12,Hard,QF,3,Jelena Ostapenko,Diana Shnaider,7-6(6) 6-1,3
 Wuhan,WTA 1000,2026/10/12,Hard,QF,3,Sonay Kartal,Elina Svitolina,6-2 2-6 6-4,170,6,447,5024
 Wuhan,WTA 1000,2026/10/12,Hard,QF,3,Maja Chwalinska,Maria Sakkari,6-0 3-6 7-5,22,35,2043,1492
 Wuhan,WTA 1000,2026/10/12,Hard,QF,3,Iga Swiatek,Ann Li,6-4 6-1,9,31,3999,1648
+Wuhan,WTA 1000,2026/10/12,Hard,SF,3,Sonay Kartal,Jelena Ostapenko,7-6(9) 7-6(5),170,34,447,1527
+Wuhan,WTA 1000,2026/10/12,Hard,SF,3,Maja Chwalinska,Iga Swiatek,7-5 6-1,22,9,2043,3999
+Wuhan,WTA 1000,2026/10/12,Hard,F,3,Maja Chwalinska,Sonay Kartal,2-6 6-4 6-2,22,170,2043,447
+Ningbo,WTA 500,2026/10/19,Hard,R32,3,Leylah Fernandez,Elise Mertens,2-6 6-3 7-5,30,15,1709,2540
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Lilli Tagger,Liudmila Samsonova,6-3 6-3,57,43,1052,1234
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Viktorija Golubic,Mai Hontama,6-3 6-1,82,168,899,461
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Lanlana Tararudee,Kaitlin Quevedo,7-5 6-3,53,79,1080,902
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Sinja Kraus,Caty Mcnally,6-4 3-1,76,59,910,1035
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Talia Gibson,Harriet Dart,7-5 7-6(6),42,117,1273,654
