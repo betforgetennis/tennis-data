@@ -2401,6 +2401,7 @@ Chengdu,ATP 250,2026/09/26,Hard,R16,3,Lloyd Harris,Valentin Vacherot,6-4 7-6(5),
 Hangzhou,ATP 250,2026/09/26,Hard,R16,3,Daniil Medvedev,Valentin Royer,7-6(6) 6-3,6,104,3770,585
 Laver Cup,A,2026/09/26,Hard,RR,3,Learner Tien,Flavio Cobolli,6-3 2-6 10-7,13,6,2715,3720
 Hangzhou,ATP 250,2026/09/26,Hard,R16,3,Coleman Wong,Adolfo Daniel Vallejo,7-6(2) 4-6 6-3,108,58,578,939
+Laver Cup,A,2026/09/26,Hard,RR,3,Alex De Minaur,Alexander Zverev,2-6 7-6(5) 11-9,9,2,3300,9690
 Laver Cup,A,2026/09/26,Hard,RR,3,Carlos Alcaraz,Taylor Fritz,6-3 4-6 13-11,3,10,5560,3175
 Chengdu,ATP 250,2026/09/27,Hard,QF,3,Nikoloz Basilashvili,Jenson Brooksby,6-4 7-6(4),145,77,385,763
 Hangzhou,ATP 250,2026/09/27,Hard,QF,3,Kyrian Jacquet,Fabian Marozsan,7-6(12) 6-4,107,59,581,930
@@ -2655,3 +2656,149 @@ Brussels,ATP 250,2026/10/24,Hard,SF,3,Jan Lennard Struff,Arthur Fils,6-4 6-7(7) 
 Almaty,ATP 250,2026/10/25,Hard,F,3,Daniil Medvedev,Nikoloz Basilashvili,6-7(6) 6-1 6-3,5,128,3660,453
 Lyon,ATP 250,2026/10/25,Hard,F,3,Lorenzo Musetti,Taylor Fritz,6-3 6-4,26,14,1870,2880
 Brussels,ATP 250,2026/10/25,Hard,F,3,Tallon Griekspoor,Jan Lennard Struff,4-6 6-3 6-4,60,58,885,929
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Matteo Berrettini,Tomas Martin Etcheverry,6-3 6-4,48,29,1083,1565
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Alex De Minaur,Tomas Machac,1-6 6-4 6-3,10,71,3280,804
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Arthur Fery,Jacob Fearnley,5-1 RET,35,86,1406,686
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Jakub Mensik,Lukas Neumayer,6-2 6-2,16,168,2495,342
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Luciano Darderi,Matteo Arnaldi,7-5 6-2,23,36,2160,1311
+Vienna,ATP 500,2026/10/26,Hard,R32,3,Learner Tien,Luca Van Assche,6-3 6-1,18,46,2345,1105
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Tommy Paul,Andrey Rublev,7-5 6-2,14,22,2675,2175
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Carlos Alcaraz,Karen Khachanov,6-4 7-6(5),3,24,5610,2030
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Adrian Mannarino,Ignacio Buse,0-6 7-5 6-4,73,32,783,1445
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Cameron Norrie,Francisco Cerundolo,6-4 6-1,41,19,1195,2310
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Alexander Zverev,Martin Landaluce,7-5 3-6 7-6(11),2,67,9750,822
+Vienna,ATP 500,2026/10/27,Hard,R32,3,Flavio Cobolli,Grigor Dimitrov,6-4 3-6 6-3,6,124,3690,472
+Vienna,ATP 500,2026/10/28,Hard,R32,3,Daniil Medvedev,Daniel Merida,7-6(5) 6-1,5,42,3860,1195
+Vienna,ATP 500,2026/10/28,Hard,R32,3,Tallon Griekspoor,Brandon Nakashima,6-1 4-6 7-6(2),50,17,1035,2375
+Vienna,ATP 500,2026/10/28,Hard,R32,3,Lorenzo Musetti,Frances Tiafoe,7-6(6) 7-5,26,9,1920,3380
+Vienna,ATP 500,2026/10/28,Hard,R32,3,Nikoloz Basilashvili,Jurij Rodionov,7-6(3) 6-1,95,137,631,411
+Vienna,ATP 500,2026/10/28,Hard,R16,3,Adrian Mannarino,Jakub Mensik,6-4 7-5,73,16,783,2495
+Vienna,ATP 500,2026/10/28,Hard,R16,3,Alex De Minaur,Learner Tien,6-4 6-2,10,18,3280,2345
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Tommy Paul,Luciano Darderi,6-1 6-1,14,23,2675,2160
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Daniil Medvedev,Cameron Norrie,4-6 6-3 7-6(1),5,41,3860,1195
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Carlos Alcaraz,Nikoloz Basilashvili,6-1 7-6(11),3,95,5610,631
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Arthur Fery,Lorenzo Musetti,6-4 5-7 6-4,35,26,1406,1920
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Alexander Zverev,Tallon Griekspoor,6-4 7-5,2,50,9750,1035
+Vienna,ATP 500,2026/10/29,Hard,R16,3,Matteo Berrettini,Flavio Cobolli,5-2 RET,48,6,1083,3690
+Vienna,ATP 500,2026/10/30,Hard,QF,3,Daniil Medvedev,Adrian Mannarino,6-2 6-3,5,73,3860,783
+Vienna,ATP 500,2026/10/30,Hard,QF,3,Carlos Alcaraz,Tommy Paul,6-4 7-6(2),3,14,5610,2675
+Vienna,ATP 500,2026/10/30,Hard,QF,3,Alexander Zverev,Arthur Fery,6-0 6-2,2,35,9750,1406
+Vienna,ATP 500,2026/10/30,Hard,QF,3,Alex De Minaur,Matteo Berrettini,7-6(4) 6-2,10,48,3280,1083
+Vienna,ATP 500,2026/10/31,Hard,SF,3,Carlos Alcaraz,Daniil Medvedev,6-4 7-6(2),3,5,5610,3860
+Vienna,ATP 500,2026/10/31,Hard,SF,3,Alex De Minaur,Alexander Zverev,6-4 1-6 7-6(4),10,2,3280,9750
+Vienna,ATP 500,2026/11/01,Hard,F,3,Carlos Alcaraz,Alex De Minaur,6-1 6-4,3,10,5610,3280
+Basel,ATP 500,2026/10/26,Hard,R32,3,Nuno Borges,Mika Brunold,6-3 6-1,53,191,1000,300
+Basel,ATP 500,2026/10/26,Hard,R32,3,Valentin Vacherot,Mariano Navone,6-3 7-6(4),31,43,1480,1164
+Basel,ATP 500,2026/10/26,Hard,R32,3,Daniel Altmaier,Juan Manuel Cerundolo,6-7(5) 7-6(4) 6-4,60,54,874,1000
+Basel,ATP 500,2026/10/26,Hard,R32,3,Holger Rune,Quentin Halys,6-4 6-7(2) 7-6(5),1202,45,10,1127
+Basel,ATP 500,2026/10/26,Hard,R32,3,Casper Ruud,Dominic Stricker,4-6 7-5 6-3,25,253,1995,217
+Basel,ATP 500,2026/10/27,Hard,R32,3,Hubert Hurkacz,Zizou Bergs,3-6 6-3 6-4,28,39,1585,1260
+Basel,ATP 500,2026/10/27,Hard,R32,3,Rafael Jodar,Alejandro Tabilo,6-4 6-2,11,30,3234,1565
+Basel,ATP 500,2026/10/27,Hard,R32,3,Jerome Kym,Arthur Rinderknech,7-6(1) 6-4,222,61,253,870
+Basel,ATP 500,2026/10/27,Hard,R32,3,Arthur Fils,Giovanni Mpetshi Perricard,7-6(5) 7-5,8,148,3425,385
+Basel,ATP 500,2026/10/27,Hard,R32,3,Alex Michelsen,Botic Van De Zandschulp,5-7 6-3 6-3,34,37,1410,1295
+Basel,ATP 500,2026/10/27,Hard,R32,3,Ben Shelton,Aleksandar Kovacevic,6-7(4) 7-6(3) 7-6(4),4,84,4680,703
+Basel,ATP 500,2026/10/27,Hard,R32,3,Jiri Lehecka,Stan Wawrinka,7-5 7-6(2),21,151,2275,376
+Basel,ATP 500,2026/10/28,Hard,R32,3,Jan Lennard Struff,Yannick Hanfmann,6-4 6-3,47,59,1084,923
+Basel,ATP 500,2026/10/28,Hard,R32,3,Denis Shapovalov,Remy Bertola,6-4 6-2,52,236,1015,238
+Basel,ATP 500,2026/10/28,Hard,R16,3,Nuno Borges,Casper Ruud,1-6 6-3 6-4,53,25,1000,1995
+Basel,ATP 500,2026/10/28,Hard,R32,3,Novak Djokovic,Ugo Humbert,4-6 6-3 6-4,12,38,3090,1270
+Basel,ATP 500,2026/10/28,Hard,R32,3,Taylor Fritz,Rinky Hijikata,6-4 7-6(3),13,85,2995,689
+Basel,ATP 500,2026/10/28,Hard,R16,3,Holger Rune,Hubert Hurkacz,3-6 6-3 7-6(7),1202,28,10,1585
+Basel,ATP 500,2026/10/29,Hard,R16,3,Valentin Vacherot,Rafael Jodar,7-6(4) 2-6 7-6(5),31,11,1480,3234
+Basel,ATP 500,2026/10/29,Hard,R16,3,Arthur Fils,Alex Michelsen,4-6 6-3 7-6(5),8,34,3425,1410
+Basel,ATP 500,2026/10/29,Hard,R16,3,Taylor Fritz,Denis Shapovalov,6-4 6-3,13,52,2995,1015
+Basel,ATP 500,2026/10/29,Hard,R16,3,Jiri Lehecka,Daniel Altmaier,7-5 6-4,21,60,2275,874
+Basel,ATP 500,2026/10/29,Hard,R16,3,Jan Lennard Struff,Novak Djokovic,6-7(4) 7-5 7-6(5),47,12,1084,3090
+Basel,ATP 500,2026/10/29,Hard,R16,3,Jerome Kym,Ben Shelton,6-3 6-7(4) 7-6(1),222,4,253,4680
+Basel,ATP 500,2026/10/30,Hard,QF,3,Valentin Vacherot,Holger Rune,6-3 3-6 6-3,31,1202,1480,10
+Basel,ATP 500,2026/10/30,Hard,QF,3,Taylor Fritz,Arthur Fils,6-2 2-0 RET,13,8,2995,3425
+Basel,ATP 500,2026/10/30,Hard,QF,3,Jiri Lehecka,Jerome Kym,6-4 6-2,21,222,2275,253
+Basel,ATP 500,2026/10/30,Hard,QF,3,Jan Lennard Struff,Nuno Borges,6-2 6-3,47,53,1084,1000
+Basel,ATP 500,2026/10/31,Hard,SF,3,Valentin Vacherot,Taylor Fritz,7-6(5) 6-3,31,13,1480,2995
+Basel,ATP 500,2026/10/31,Hard,SF,3,Jiri Lehecka,Jan Lennard Struff,3-6 7-5 6-4,21,47,2275,1084
+Basel,ATP 500,2026/11/01,Hard,F,3,Valentin Vacherot,Jiri Lehecka,2-6 6-3 6-3,31,21,1480,2275
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Ignacio Buse,Zizou Bergs,6-2 6-4,33,40,1445,1226
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Rinky Hijikata,Luciano Darderi,6-2 6-2,83,21,693,2200
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Lorenzo Musetti,Hubert Hurkacz,7-6(3) 7-6(10),24,29,1960,1625
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Luca Van Assche,Mariano Navone,6-3 7-5,47,48,1105,1099
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Rafael Jodar,Alejandro Tabilo,6-2 6-3,10,30,3209,1565
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Daniel Merida,Sebastian Baez,6-4 6-2,42,52,1195,1044
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Casper Ruud,Juan Manuel Cerundolo,6-3 6-2,23,54,2035,1000
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Cameron Norrie,Matteo Arnaldi,6-4 1-6 6-3,45,36,1145,1311
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Mattia Bellucci,Lorenzo Sonego,6-4 6-3,66,106,824,571
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Tomas Machac,Kyrian Jacquet,7-6(7) 6-1,69,80,819,741
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Alex Molcan,Titouan Droguet,4-6 6-4 6-4,78,79,747,746
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Karen Khachanov,Denis Shapovalov,6-3 6-7(6) 1-4 RET,25,51,1940,1055
+Paris Masters,ATP 1000,2026/11/02,Hard,R64,3,Ugo Humbert,Botic Van De Zandschulp,7-6(5) 6-7(9) 6-3,38,37,1295,1295
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Quentin Halys,Arthur Fery,7-6(6) 7-5,46,32,1127,1503
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Tomas Martin Etcheverry,Andrey Rublev,6-4 6-7(4) 7-6(3),31,22,1550,2085
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Arthur Rinderknech,Francisco Cerundolo,3-6 7-6(2) 2-0 RET,68,20,820,2260
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Nuno Borges,Moise Kouame,6-3 6-1,49,132,1075,425
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Learner Tien,Adolfo Daniel Vallejo,6-3 5-7 7-5,19,56,2345,947
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Matteo Berrettini,Brandon Nakashima,6-4 3-6 7-6(8),43,18,1173,2375
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Novak Djokovic,Valentin Vacherot,6-7(5) 7-5 6-1,11,27,3140,1780
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Tommy Paul,Holger Rune,7-5 6-4,14,433,2775,110
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Taylor Fritz,Benjamin Bonzi,3-6 6-3 6-4,12,95,3095,630
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Alex Michelsen,Jiri Lehecka,6-7(5) 6-2 6-4,35,15,1435,2580
+Paris Masters,ATP 1000,2026/11/03,Hard,R32,3,Ben Shelton,Cameron Norrie,6-3 6-4,4,45,4530,1145
+Paris Masters,ATP 1000,2026/11/03,Hard,R64,3,Jan Lennard Struff,Arthur Gea,7-6(3) 6-3,39,44,1271,1146
+Paris Masters,ATP 1000,2026/11/03,Hard,R32,3,Casper Ruud,Rafael Jodar,6-3 6-4,23,10,2035,3209
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Arthur Rinderknech,Mattia Bellucci,6-4 6-1,68,66,820,824
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Quentin Halys,Frances Tiafoe,6-3 1-6 7-6(9),46,8,1127,3430
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Tommy Paul,Daniel Merida,6-1 6-1,14,42,2775,1195
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Luca Van Assche,Learner Tien,7-6(4) 6-4,47,19,1105,2345
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Lorenzo Musetti,Alexander Zverev,7-6(5) 6-2,24,1,1960,9550
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Tomas Martin Etcheverry,Alex De Minaur,7-6(2) 6-3,31,9,1550,3410
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Ignacio Buse,Daniil Medvedev,6-4 6-4,33,5,1445,3860
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Rinky Hijikata,Novak Djokovic,2-6 6-3 6-3,83,11,693,3140
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Nuno Borges,Karen Khachanov,6-3 6-4,49,25,1075,1940
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Taylor Fritz,Alex Molcan,6-7(6) 7-5 7-6(5),12,78,3095,747
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Matteo Berrettini,Ugo Humbert,7-6(3) 7-5,43,38,1173,1295
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Carlos Alcaraz,Alex Michelsen,7-6(4) 6-3,3,35,6100,1435
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Jan Lennard Struff,Thiago Agustin Tirante,6-7(5) 6-3 7-6(3),39,53,1271,1023
+Paris Masters,ATP 1000,2026/11/04,Hard,R32,3,Arthur Fils,Tomas Machac,6-3 7-6(4),7,69,3525,819
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Carlos Alcaraz,Matteo Berrettini,W/O,3,43,6100,1173
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Tommy Paul,Quentin Halys,7-6(3) 6-4,14,46,2775,1127
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Ben Shelton,Arthur Rinderknech,3-6 6-4 7-6(5),4,68,4530,820
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Rinky Hijikata,Tomas Martin Etcheverry,2-6 6-3 7-5,83,31,693,1550
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Luca Van Assche,Lorenzo Musetti,7-5 3-6 6-4,47,24,1105,1960
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Nuno Borges,Ignacio Buse,6-0 6-2,49,33,1075,1445
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Taylor Fritz,Arthur Fils,6-3 6-4,12,7,3095,3525
+Paris Masters,ATP 1000,2026/11/05,Hard,R16,3,Casper Ruud,Jan Lennard Struff,6-3 6-3,23,39,2035,1271
+Paris Masters,ATP 1000,2026/11/06,Hard,QF,3,Ben Shelton,Tommy Paul,6-4 4-6 6-3,4,14,4530,2775
+Paris Masters,ATP 1000,2026/11/06,Hard,QF,3,Luca Van Assche,Rinky Hijikata,6-4 6-7(4) 7-5,47,83,1105,693
+Paris Masters,ATP 1000,2026/11/06,Hard,QF,3,Carlos Alcaraz,Taylor Fritz,6-7(10) 7-5 6-3,3,12,6100,3095
+Paris Masters,ATP 1000,2026/11/06,Hard,QF,3,Casper Ruud,Nuno Borges,7-6(5) 6-4,23,49,2035,1075
+Paris Masters,ATP 1000,2026/11/07,Hard,SF,3,Ben Shelton,Luca Van Assche,5-7 6-3 6-4,4,47,4530,1105
+Paris Masters,ATP 1000,2026/11/07,Hard,SF,3,Carlos Alcaraz,Casper Ruud,6-4 6-4,3,23,6100,2035
+Paris Masters,ATP 1000,2026/11/08,Hard,F,3,Carlos Alcaraz,Ben Shelton,7-6(5) 7-5,3,4,6100,4530
+Stockholm,ATP 250,2026/11/08,Hard,R32,3,Juan Manuel Cerundolo,Elias Ymer,6-1 7-6(4),54,245,1000,226
+Stockholm,ATP 250,2026/11/08,Hard,R32,3,Thiago Agustin Tirante,Jaume Munar,7-6(3) 6-3,53,65,1023,825
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Borna Gojo,Tomas Machac,6-3 6-4,134,60,423,899
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Ugo Humbert,Adolfo Daniel Vallejo,6-4 6-3,39,56,1320,959
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Alex Michelsen,Yannick Hanfmann,6-2 6-3,35,67,1460,835
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Cameron Norrie,James Duckworth,7-5 6-0,53,76,1030,774
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Tomas Martin Etcheverry,Max Dahlin,6-4 6-7(6) 6-3,29,778,1625,37
+Stockholm,ATP 250,2026/11/09,Hard,R32,3,Toby Samuel,Leo Borg,6-3 6-2,95,599,624,64
+Stockholm,ATP 250,2026/11/10,Hard,R32,3,Alexander Shevchenko,Adrian Mannarino,6-1 6-3,107,61,559,898
+Stockholm,ATP 250,2026/11/10,Hard,R16,3,Thiago Agustin Tirante,Tomas Martin Etcheverry,W/O,51,29,1042,1625
+Stockholm,ATP 250,2026/11/10,Hard,R16,3,Alex Michelsen,Juan Manuel Cerundolo,6-3 6-2,35,54,1460,1015
+Stockholm,ATP 250,2026/11/10,Hard,R32,3,Lorenzo Sonego,Quentin Halys,6-4 7-6(4),115,45,511,1214
+Stockholm,ATP 250,2026/11/10,Hard,R32,3,Miomir Kecmanovic,Arthur Rinderknech,7-6(4) 4-6 6-4,64,58,859,920
+Stockholm,ATP 250,2026/11/10,Hard,R32,3,Holger Rune,Zizou Bergs,6-3 6-4,406,44,120,1220
+Stockholm,ATP 250,2026/11/10,Hard,R16,3,Lorenzo Musetti,Toby Samuel,6-1 6-4,25,95,1895,624
+Stockholm,ATP 250,2026/11/11,Hard,R16,3,Alejandro Tabilo,Lorenzo Sonego,7-6(2) 6-7(7) 7-5,31,115,1525,511
+Stockholm,ATP 250,2026/11/11,Hard,R16,3,Ugo Humbert,Borna Gojo,6-2 6-4,39,134,1320,423
+Stockholm,ATP 250,2026/11/11,Hard,R16,3,Taylor Fritz,Cameron Norrie,7-5 6-3,10,53,3285,1030
+Stockholm,ATP 250,2026/11/11,Hard,R16,3,Alexander Shevchenko,Casper Ruud,6-7(5) 6-4 6-3,107,18,559,2435
+Stockholm,ATP 250,2026/11/11,Hard,R16,3,Holger Rune,Miomir Kecmanovic,2-6 6-1 6-4,406,64,120,859
+Stockholm,ATP 250,2026/11/12,Hard,QF,3,Alejandro Tabilo,Alex Michelsen,7-5 7-6(2),31,35,1525,1460
+Stockholm,ATP 250,2026/11/12,Hard,QF,3,Thiago Agustin Tirante,Alexander Shevchenko,7-6(5) 6-7(5) 6-3,51,107,1042,559
+Stockholm,ATP 250,2026/11/12,Hard,QF,3,Taylor Fritz,Holger Rune,W/O,10,406,3285,120
+Stockholm,ATP 250,2026/11/12,Hard,QF,3,Lorenzo Musetti,Ugo Humbert,7-6(5) 3-6 6-4,25,39,1895,1320
+Stockholm,ATP 250,2026/11/13,Hard,SF,3,Thiago Agustin Tirante,Alejandro Tabilo,7-5 7-6(1),51,31,1042,1525
+Stockholm,ATP 250,2026/11/13,Hard,SF,3,Taylor Fritz,Lorenzo Musetti,6-4 6-2,10,25,3285,1895
+Stockholm,ATP 250,2026/11/14,Hard,F,3,Taylor Fritz,Thiago Agustin Tirante,6-2 4-6 7-6(3),10,51,3285,1042
+Atp Finals,F,2026/11/15,Hard,RR,3,Alexander Zverev,Rafael Jodar,6-4 6-4,1,11,9550,3234
+Atp Finals,F,2026/11/15,Hard,RR,3,Ben Shelton,Arthur Fils,6-2 3-6 6-3,4,7,5170,3625
