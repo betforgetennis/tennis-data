@@ -800,7 +800,7 @@ Linz,WTA 500,2026/04/07,Clay,R32,3,Anhelina Kalinina,Panna Udvardy,5-7 6-1 6-0,1
 Linz,WTA 500,2026/04/07,Clay,R32,3,Donna Vekic,Katie Volynets,6-3 3-6 6-4,104,88,762,831
 Linz,WTA 500,2026/04/07,Clay,R32,3,Karolina Pliskova,Aliaksandra Sasnovich,6-4 6-4,258,115,267,716
 Linz,WTA 500,2026/04/08,Clay,R16,3,Mirra Andreeva,Sloane Stephens,6-4 6-2,10,552,3121,90
-Linz,WTA 500,2026/04/08,Clay,R16,3,Sorana Cirstea,Dalma Galfi,5-0 ret.,29,103,1459,769
+Linz,WTA 500,2026/04/08,Clay,R16,3,Sorana Cirstea,Dalma Galfi,5-0 RET,29,103,1459,769
 Linz,WTA 500,2026/04/08,Clay,R16,3,Jelena Ostapenko,Alexandra Eala,6-4 7-5,23,46,2100,1255
 Linz,WTA 500,2026/04/09,Clay,R16,3,Elena Gabriela Ruse,Dayana Yastremska,4-6 6-4 6-4,87,49,840,1172
 Linz,WTA 500,2026/04/09,Clay,R16,3,Anastasia Potapova,Tamara Korpatsch,6-2 6-1,97,109,800,737
@@ -1189,7 +1189,7 @@ Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Karolina Muchova,Anastasia Zakha
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Donna Vekic,Alice Tubello,6-3 6-2,35,204,1326,382
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Emma Navarro,Janice Tjen,6-4 6-3,26,37,1674,1282
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Iva Jovic,Alexandra Eala,6-4 6-2,16,28,2636,1666
-Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Claire Liu,Moyuka Uchijima,3-6 6-0 4-1,113,107,692,713
+Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Claire Liu,Moyuka Uchijima,3-6 6-0 4-1 RET,113,107,692,713
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Aryna Sabalenka,Jessica Bouzas Maneiro,6-4 6-2,1,59,8550,1014
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Maria Sakkari,Linda Noskova,7-5 7-6(3),33,7,1355,5016
 Roland Garros,Grand Slam,2026/05/24,Clay,R128,3,Ann Li,Shuai Zhang,6-4 6-2,31,57,1541,1020
@@ -1630,7 +1630,7 @@ Iasi,WTA 250,2026/07/13,Clay,QF,3,Paula Badosa,Panna Udvardy,6-4 7-6(2),84,74,88
 Iasi,WTA 250,2026/07/13,Clay,QF,3,Tamara Zidansek,Petra Marcinko,6-3 7-5,142,53,548,1074
 Iasi,WTA 250,2026/07/13,Clay,SF,3,Mayar Sherif,Oleksandra Oliynykova,6-3 6-1,50,44,1105,1171
 Iasi,WTA 250,2026/07/13,Clay,SF,3,Paula Badosa,Tamara Zidansek,3-6 7-5 7-6(1),84,142,885,548
-Iasi,WTA 250,2026/07/13,Clay,F,3,Mayar Sherif,Paula Badosa,6-4 4-0,50,84,1105,885
+Iasi,WTA 250,2026/07/13,Clay,F,3,Mayar Sherif,Paula Badosa,6-4 4-0 RET,50,84,1105,885
 Hamburg,WTA 250,2026/07/20,Clay,R32,3,Anhelina Kalinina,Kaitlin Quevedo,7-5 6-4,54,103,1072,754
 Hamburg,WTA 250,2026/07/20,Clay,R32,3,Julia Stusek,Nadia Podoroska,4-6 6-3 6-4,375,531,168,101
 Hamburg,WTA 250,2026/07/20,Clay,R32,3,Anna Bondar,Moyuka Uchijima,7-5 6-4,77,107,936,713
@@ -2383,17 +2383,17 @@ Ningbo,WTA 500,2026/10/19,Hard,R32,3,Diana Shnaider,Yulia Putintseva,7-5 7-6(4),
 Ningbo,WTA 500,2026/10/19,Hard,R32,3,Sara Bejlek,Alycia Parks,4-6 6-3 6-3,32,65,1633,985
 Ningbo,WTA 500,2026/10/19,Hard,R32,3,Polina Kudermetova,Cristina Bucsa,7-6(5) 6-2,91,42,813,1279
 Ningbo,WTA 500,2026/10/19,Hard,R32,3,Jasmine Paolini,Anhelina Kalinina,6-2 7-5,35,55,1512,1087
-Ningbo,WTA 500,2026/10/19,Hard,R32,3,Belinda Bencic,Jelena Ostapenko,6-3 1-1,20,26,2222,1916
+Ningbo,WTA 500,2026/10/19,Hard,R32,3,Belinda Bencic,Jelena Ostapenko,6-3 1-1 RET,20,26,2222,1916
 Ningbo,WTA 500,2026/10/19,Hard,R32,3,Katarzyna Kawa,Daria Snigur,1-6 6-2 6-4,106,40,701,1280
 Ningbo,WTA 500,2026/10/19,Hard,R32,3,Ekaterina Alexandrova,Hanyu Guo,6-2 6-3,33,188,1591,409
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Marie Bouzkova,Anastasia Zakharova,7-5 6-2,24,105,1959,704
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Leylah Fernandez,Aliaksandra Sasnovich,7-5 6-7(3) 6-3,23,112,1974,686
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Sara Bejlek,Sorana Cirstea,7-6(3) 6-4,32,16,1633,2386
-Ningbo,WTA 500,2026/10/19,Hard,R16,3,Ekaterina Alexandrova,Marta Kostyuk,6-4 0-0,33,10,1591,3920
+Ningbo,WTA 500,2026/10/19,Hard,R16,3,Ekaterina Alexandrova,Marta Kostyuk,6-4 0-0 RET,33,10,1591,3920
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Iva Jovic,Jasmine Paolini,6-4 6-3,12,35,2941,1512
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Katarzyna Kawa,Belinda Bencic,7-5 6-2,106,20,701,2222
 Ningbo,WTA 500,2026/10/19,Hard,R16,3,Diana Shnaider,Alexandra Eala,7-5 6-4,13,19,2798,2241
-Ningbo,WTA 500,2026/10/19,Hard,R16,3,Elena Rybakina,Polina Kudermetova,5-0,1,91,9501,813
+Ningbo,WTA 500,2026/10/19,Hard,R16,3,Elena Rybakina,Polina Kudermetova,5-0 RET,1,91,9501,813
 Ningbo,WTA 500,2026/10/19,Hard,QF,3,Marie Bouzkova,Sara Bejlek,6-3 6-4,24,32,1959,1633
 Ningbo,WTA 500,2026/10/19,Hard,QF,3,Leylah Fernandez,Ekaterina Alexandrova,4-6 6-2 6-1,23,33,1974,1591
 Ningbo,WTA 500,2026/10/19,Hard,QF,3,Diana Shnaider,Iva Jovic,6-3 4-6 6-1,13,12,2798,2941
@@ -2404,7 +2404,7 @@ Ningbo,WTA 500,2026/10/19,Hard,F,3,Elena Rybakina,Leylah Fernandez,6-2 6-2,1,23,
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Lilli Tagger,Liudmila Samsonova,6-3 6-3,53,43,1091,1234
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Viktorija Golubic,Mai Hontama,6-3 6-1,74,163,914,461
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Lanlana Tararudee,Kaitlin Quevedo,7-5 6-3,57,86,1083,855
-Osaka,WTA 250,2026/10/19,Hard,R32,3,Sinja Kraus,Caty Mcnally,6-4 3-1,77,63,909,999
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Sinja Kraus,Caty Mcnally,6-4 3-1 RET,77,63,909,999
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Talia Gibson,Harriet Dart,7-5 7-6(6),38,115,1306,661
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Ashlyn Krueger,Janice Tjen,6-4 6-4,44,47,1233,1120
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Katie Boulter,Himeno Sakatsume,6-3 6-1,48,114,1115,665
@@ -2416,13 +2416,13 @@ Osaka,WTA 250,2026/10/19,Hard,R32,3,Antonia Ruzic,Paula Badosa,3-6 6-4 6-3,84,61
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Moyuka Uchijima,Ena Shibahara,6-4 6-7(7) 6-3,121,481,632,113
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Zeynep Sonmez,Maya Joint,3-6 6-4 6-3,64,94,987,782
 Osaka,WTA 250,2026/10/19,Hard,R32,3,Kayla Day,Sofia Kenin,6-3 6-2,119,187,635,410
-Osaka,WTA 250,2026/10/19,Hard,R32,3,Katerina Siniakova,Peyton Stearns,6-4 0-6 4-0,49,37,1114,1316
+Osaka,WTA 250,2026/10/19,Hard,R32,3,Katerina Siniakova,Peyton Stearns,6-4 0-6 4-0 RET,49,37,1114,1316
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Talia Gibson,Sinja Kraus,6-2 6-1,38,77,1306,909
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Ashlyn Krueger,Lanlana Tararudee,6-3 6-1,44,57,1233,1083
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Lilli Tagger,Tereza Valentova,7-5 6-3,53,87,1091,853
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Katie Boulter,Viktorija Golubic,6-2 6-1,48,74,1115,914
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Ann Li,Zeynep Sonmez,6-3 6-1,31,64,1681,987
-Osaka,WTA 250,2026/10/19,Hard,R16,3,Antonia Ruzic,Kayla Day,6-4 0-0,84,119,862,635
+Osaka,WTA 250,2026/10/19,Hard,R16,3,Antonia Ruzic,Kayla Day,6-4 0-0 RET,84,119,862,635
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Mary Stoiana,Moyuka Uchijima,6-2 2-6 6-3,113,121,673,632
 Osaka,WTA 250,2026/10/19,Hard,R16,3,Katerina Siniakova,Magda Linette,6-4 6-1,49,71,1114,936
 Osaka,WTA 250,2026/10/19,Hard,QF,3,Ann Li,Lilli Tagger,6-4 3-6 7-6(0),31,53,1681,1091
@@ -2435,6 +2435,135 @@ Osaka,WTA 250,2026/10/19,Hard,F,3,Katerina Siniakova,Ashlyn Krueger,6-1 6-0,49,4
 Tokyo,WTA 500,2026/10/26,Hard,R32,3,Alycia Parks,Xinyu Wang,6-1 7-6(7),65,39,985,1288
 Tokyo,WTA 500,2026/10/26,Hard,R32,3,Talia Gibson,Daria Kasatkina,6-0 7-5,38,75,1306,913
 Tokyo,WTA 500,2026/10/26,Hard,R32,3,Elise Mertens,Moyuka Uchijima,6-4 6-2,14,121,2540,632
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Alexandra Eala,Mika Stojsavljevic,6-1 6-2,19,411,2241,143
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Maya Joint,Sorana Cirstea,6-3 7-6(4),94,16,782,2386
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Ekaterina Alexandrova,Ann Li,6-4 6-4,33,31,1591,1681
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Yulia Putintseva,Maria Sakkari,6-4 3-6 6-1,67,30,969,1682
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Cristina Bucsa,Diane Parry,7-5 6-1,42,34,1279,1549
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Aliaksandra Sasnovich,Nikola Bartunkova,6-4 6-7(5) 6-3,112,29,686,1711
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Leylah Fernandez,Himeno Sakatsume,6-2 6-4,23,114,1974,665
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Naomi Osaka,Jasmine Paolini,6-3 7-6(4),18,35,2287,1512
+Tokyo,WTA 500,2026/10/26,Hard,R32,3,Mia Pohankova,Tereza Valentova,6-1 6-4,144,87,504,853
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Kamilla Rakhimova,Ekaterina Alexandrova,6-4 4-6 7-6(5),66,33,976,1591
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Maya Joint,Cristina Bucsa,6-1 2-6 6-4,94,42,782,1279
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Diana Shnaider,Aliaksandra Sasnovich,6-3 5-7 6-3,13,112,2798,686
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Alexandra Eala,Talia Gibson,4-6 6-2 6-0,19,38,2241,1306
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Alycia Parks,Kimberly Birrell,6-3 6-1,65,41,985,1280
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Leylah Fernandez,Elise Mertens,6-2 7-6(8),23,14,1974,2540
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Mia Pohankova,Naomi Osaka,6-3 7-5,144,18,504,2287
+Tokyo,WTA 500,2026/10/26,Hard,R16,3,Elena Rybakina,Yulia Putintseva,6-2 6-3,1,67,9501,969
+Tokyo,WTA 500,2026/10/26,Hard,QF,3,Kamilla Rakhimova,Maya Joint,7-5 5-7 6-1,66,94,976,782
+Tokyo,WTA 500,2026/10/26,Hard,QF,3,Mia Pohankova,Alycia Parks,7-6(3) 6-3,144,65,504,985
+Tokyo,WTA 500,2026/10/26,Hard,QF,3,Leylah Fernandez,Elena Rybakina,W/O,23,1,1974,9501
+Tokyo,WTA 500,2026/10/26,Hard,QF,3,Diana Shnaider,Alexandra Eala,2-6 7-6(5) 6-4,13,19,2798,2241
+Tokyo,WTA 500,2026/10/26,Hard,SF,3,Leylah Fernandez,Kamilla Rakhimova,7-5 6-3,23,66,1974,976
+Tokyo,WTA 500,2026/10/26,Hard,SF,3,Diana Shnaider,Mia Pohankova,6-4 7-6(7),13,144,2798,504
+Tokyo,WTA 500,2026/10/26,Hard,F,3,Diana Shnaider,Leylah Fernandez,6-4 5-7 6-2,13,23,2798,1974
 Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Sinja Kraus,Panna Udvardy,6-4 6-2,77,78,909,899
 Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Maria Timofeeva,Teodora Kostovic,6-4 6-1,72,143,931,506
 Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Anna Bondar,Daria Snigur,6-4 6-2,76,40,913,1280
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Han Shi,Alevtina Ibragimova,6-4 6-4,162,171,461,448
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Paula Badosa,Carol Young Suh Lee,6-1 6-4,61,156,1023,476
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Harriet Dart,Tatiana Prozorova,6-4 2-6 6-2,115,123,661,615
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Kaitlin Quevedo,Sofia Kenin,6-4 6-7(5) 6-4,86,187,855,410
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Jil Teichmann,Simona Waltert,7-5 6-2,168,128,452,580
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Magda Linette,Anastasia Zakharova,7-6(6) 6-4,71,105,936,704
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Zeynep Sonmez,Sara Sorribes Tormo,6-1 4-6 6-2,64,167,987,454
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Dayana Yastremska,Katie Volynets,7-5 1-6 7-6(7),97,81,752,874
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Claire Liu,Antonia Ruzic,4-6 7-6(5) 6-4,109,84,691,862
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Janice Tjen,Polina Kudermetova,6-2 6-2,47,91,1120,813
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Lilli Tagger,Venus Williams,6-2 6-2,53,599,1091,75
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Xinran Sun,Mananchaya Sawangkaew,6-3 6-4,405,80,145,886
+Guangzhou,WTA 250,2026/10/26,Hard,R32,3,Katerina Siniakova,Lanlana Tararudee,2-6 6-1 6-4,49,57,1114,1083
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Paula Badosa,Sinja Kraus,6-1 6-4,61,77,1023,909
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Harriet Dart,Janice Tjen,6-4 3-6 6-3,115,47,661,1120
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Han Shi,Dayana Yastremska,7-5 6-4,162,97,461,752
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Claire Liu,Katerina Siniakova,W/O,109,49,691,1114
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Jil Teichmann,Zeynep Sonmez,4-6 6-3 6-1,168,64,452,987
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Xinran Sun,Maria Timofeeva,6-3 4-6 7-6(3),405,72,145,931
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Kaitlin Quevedo,Anna Bondar,7-5 6-3,86,76,855,913
+Guangzhou,WTA 250,2026/10/26,Hard,R16,3,Lilli Tagger,Magda Linette,6-2 6-2,53,71,1091,936
+Guangzhou,WTA 250,2026/10/26,Hard,QF,3,Harriet Dart,Paula Badosa,3-6 6-2 6-4,115,61,661,1023
+Guangzhou,WTA 250,2026/10/26,Hard,QF,3,Kaitlin Quevedo,Jil Teichmann,7-6(2) 6-3,86,168,855,452
+Guangzhou,WTA 250,2026/10/26,Hard,QF,3,Xinran Sun,Claire Liu,7-5 7-6(2),405,109,145,691
+Guangzhou,WTA 250,2026/10/26,Hard,QF,3,Lilli Tagger,Han Shi,6-4 3-6 7-5,53,162,1091,461
+Guangzhou,WTA 250,2026/10/26,Hard,SF,3,Harriet Dart,Xinran Sun,5-7 7-6(1) 6-0,115,405,661,145
+Guangzhou,WTA 250,2026/10/26,Hard,SF,3,Lilli Tagger,Kaitlin Quevedo,6-2 6-0,53,86,1091,855
+Guangzhou,WTA 250,2026/10/26,Hard,F,3,Harriet Dart,Lilli Tagger,4-6 6-3 6-4,115,53,661,1091
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Katie Boulter,Viktorija Golubic,6-2 7-6(2),49,89,1115,831
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Claire Liu,Tatiana Prozorova,6-2 6-4,102,124,743,632
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Aliaksandra Sasnovich,Katie Volynets,6-3 6-2,101,78,769,874
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Maria Sakkari,Carol Young Suh Lee,6-1 6-4,30,153,1682,482
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Mary Stoiana,Venus Williams,6-2 6-3,114,597,673,76
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Xinyu Wang,Adithya Karunaratne,6-1 6-1,38,523,1288,100
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Zeynep Sonmez,Dayana Yastremska,6-4 6-2,67,99,987,770
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Talia Gibson,Oleksandra Oliynykova,7-6(5) 6-1,36,62,1341,1022
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Maya Joint,Maddison Inglis,7-5 6-2,90,135,817,553
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Sorana Cirstea,Maria Timofeeva,7-6(6) 1-6 7-5,15,70,2386,952
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Tereza Valentova,Himeno Sakatsume,6-3 7-5,85,129,853,595
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Alexandra Shubladze,Liudmila Samsonova,5-7 6-1 6-2,136,40,548,1234
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Alexandra Eala,Emerson Jones,6-4 6-3,17,132,2289,581
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Elena Pridankina,Paula Badosa,7-5 0-0,206,57,378,1076
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Mika Stojsavljevic,Sofia Kenin,6-3 4-6 6-4,411,187,144,410
+Hong Kong,WTA 250,2026/11/02,Hard,R32,3,Antonia Ruzic,Alina Charaeva,7-6(5) 6-4,81,82,862,859
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Aliaksandra Sasnovich,Talia Gibson,6-1 5-7 7-6(7),101,36,769,1341
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Claire Liu,Katie Boulter,7-5 6-4,102,49,743,1115
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Maria Sakkari,Maya Joint,4-6 6-3 6-3,30,90,1682,817
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Antonia Ruzic,Xinyu Wang,6-3 4-6 6-2,81,38,862,1288
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Alexandra Shubladze,Elena Pridankina,6-7(6) 6-1 6-3,136,206,548,378
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Zeynep Sonmez,Mika Stojsavljevic,7-6(5) 6-4,67,411,987,144
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Alexandra Eala,Tereza Valentova,6-4 7-6(7),17,85,2289,853
+Hong Kong,WTA 250,2026/11/02,Hard,R16,3,Sorana Cirstea,Mary Stoiana,7-5 6-1,15,114,2386,673
+Hong Kong,WTA 250,2026/11/02,Hard,QF,3,Claire Liu,Zeynep Sonmez,6-1 6-4,102,67,743,987
+Hong Kong,WTA 250,2026/11/02,Hard,QF,3,Alexandra Shubladze,Sorana Cirstea,6-2 6-3,136,15,548,2386
+Hong Kong,WTA 250,2026/11/02,Hard,QF,3,Maria Sakkari,Aliaksandra Sasnovich,6-2 6-3,30,101,1682,769
+Hong Kong,WTA 250,2026/11/02,Hard,QF,3,Alexandra Eala,Antonia Ruzic,7-6(7) 7-5,17,81,2289,862
+Hong Kong,WTA 250,2026/11/02,Hard,SF,3,Claire Liu,Alexandra Shubladze,7-5 6-4,102,136,743,548
+Hong Kong,WTA 250,2026/11/02,Hard,SF,3,Alexandra Eala,Maria Sakkari,7-5 3-6 6-4,17,30,2289,1682
+Hong Kong,WTA 250,2026/11/02,Hard,F,3,Claire Liu,Alexandra Eala,6-3 6-0,102,17,743,2289
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Joanna Garland,Jil Teichmann,6-3 6-4,196,147,390,506
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Oksana Selekhmeteva,Teodora Kostovic,6-4 6-3,122,141,633,522
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Robin Montgomery,Panna Udvardy,6-4 1-6 6-1,151,86,486,848
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Jeline Vandromme,Kyoka Okamura,7-5 6-1,126,249,601,296
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Anastasia Zakharova,Polina Iatcenko,7-6(3) 6-1,107,169,704,448
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Weronika Falkowska,Linda Fruhvirtova,7-6(3) 6-4,277,167,254,449
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Polina Kudermetova,Viktoria Morvayova,6-3 4-6 6-1,93,323,813,212
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Janice Tjen,Katherine Hui,6-1 6-2,75,1067,900,15
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Vaishnavi Adkar,Jodie Burrage,3-6 6-3 7-5,344,474,196,116
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Moyuka Uchijima,Rebecca Sramkova,6-3 6-2,123,146,632,507
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Lucrezia Stefanini,Rada Zolotareva,6-2 6-2,117,328,657,207
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Magda Linette,Aliona Falei,7-6(3) 5-7 6-2,68,210,956,372
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Maaya Rajeshwaran Revathi,Katarzyna Kawa,6-4 2-6 7-6(5),669,115,59,672
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Mai Hontama,Mananchaya Sawangkaew,7-6(3) 6-2,160,77,465,886
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Zhibek Kulambayeva,Mei Yamaguchi,6-4 7-5,473,282,117,249
+Chennai,WTA 250,2026/11/03,Hard,R32,3,Simona Waltert,Sahaja Yamalapalli,6-4 3-6 6-3,133,423,580,141
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Polina Kudermetova,Oksana Selekhmeteva,6-3 6-0,93,122,813,633
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Robin Montgomery,Jeline Vandromme,6-4 3-6 7-5,151,126,486,601
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Janice Tjen,Joanna Garland,7-6(1) 6-1,75,196,900,390
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Maaya Rajeshwaran Revathi,Weronika Falkowska,6-4 6-3,669,277,59,254
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Magda Linette,Moyuka Uchijima,7-6(5) 6-0,68,123,956,632
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Mai Hontama,Zhibek Kulambayeva,4-6 6-4 7-5,160,473,465,117
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Lucrezia Stefanini,Simona Waltert,6-2 6-3,117,133,657,580
+Chennai,WTA 250,2026/11/03,Hard,R16,3,Anastasia Zakharova,Vaishnavi Adkar,6-3 6-0,107,344,704,196
+Chennai,WTA 250,2026/11/03,Hard,QF,3,Janice Tjen,Polina Kudermetova,5-7 6-4 6-2,75,93,900,813
+Chennai,WTA 250,2026/11/03,Hard,QF,3,Robin Montgomery,Maaya Rajeshwaran Revathi,6-3 6-3,151,669,486,59
+Chennai,WTA 250,2026/11/03,Hard,QF,3,Magda Linette,Mai Hontama,4-6 7-5 6-4,68,160,956,465
+Chennai,WTA 250,2026/11/03,Hard,QF,3,Anastasia Zakharova,Lucrezia Stefanini,6-2 5-2,107,117,704,657
+Chennai,WTA 250,2026/11/03,Hard,SF,3,Janice Tjen,Robin Montgomery,6-3 6-4,75,151,900,486
+Chennai,WTA 250,2026/11/03,Hard,SF,3,Magda Linette,Anastasia Zakharova,2-6 6-2 6-3,68,107,956,704
+Chennai,WTA 250,2026/11/03,Hard,F,3,Magda Linette,Janice Tjen,5-7 6-1 6-4,68,75,956,900
+Wta Finals,F,2026/11/08,Hard,RR,3,Linda Noskova,Marta Kostyuk,6-2 6-4,8,10,4343,3910
+Wta Finals,F,2026/11/08,Hard,RR,3,Coco Gauff,Jessica Pegula,6-4 6-7(5) 6-2,4,5,5763,5760
+Wta Finals,F,2026/11/08,Hard,RR,3,Aryna Sabalenka,Karolina Muchova,7-6(2) 7-5,2,7,6485,4665
+Wta Finals,F,2026/11/08,Hard,RR,3,Mirra Andreeva,Elina Svitolina,6-4 6-0,3,6,6306,5121
+Wta Finals,F,2026/11/08,Hard,RR,3,Jessica Pegula,Marta Kostyuk,6-2 7-5,5,10,5760,3910
+Wta Finals,F,2026/11/08,Hard,RR,3,Linda Noskova,Coco Gauff,6-3 6-3,8,4,4343,5763
+Wta Finals,F,2026/11/08,Hard,RR,3,Elina Svitolina,Karolina Muchova,3-6 6-2 6-2,6,7,5121,4665
+Wta Finals,F,2026/11/08,Hard,RR,3,Mirra Andreeva,Aryna Sabalenka,6-4 6-0,3,2,6306,6485
+Wta Finals,F,2026/11/08,Hard,RR,3,Coco Gauff,Marta Kostyuk,6-4 7-5,4,10,5763,3910
+Wta Finals,F,2026/11/08,Hard,RR,3,Jessica Pegula,Linda Noskova,7-6(2) 4-6 7-5,5,8,5760,4343
+Wta Finals,F,2026/11/08,Hard,RR,3,Mirra Andreeva,Diana Shnaider,6-2 6-1,3,11,6306,3238
+Wta Finals,F,2026/11/08,Hard,RR,3,Elina Svitolina,Aryna Sabalenka,6-3 3-6 6-1,6,2,5121,6485
+Wta Finals,F,2026/11/08,Hard,SF,3,Mirra Andreeva,Jessica Pegula,6-3 6-4,3,5,6306,5760
+Wta Finals,F,2026/11/08,Hard,SF,3,Elina Svitolina,Linda Noskova,6-2 6-1,6,8,5121,4343
+Wta Finals,F,2026/11/08,Hard,F,3,Mirra Andreeva,Elina Svitolina,7-5 6-3,3,6,6306,5121
